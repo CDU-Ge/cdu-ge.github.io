@@ -7,5 +7,5 @@ Blog. Documenting the academic journey. Documenting industry thinking. Documenti
 run it in local
 
 ```shell
-bundle exec jekyll serve
+bundle exec jekyll serve --no-watch
 ```
