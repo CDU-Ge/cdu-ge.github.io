@@ -4,7 +4,6 @@ title:  "Welcome to My Blog: A Journey of Notes, Reflections, Experiences, and F
 date:   2023-11-19 18:23:57 +0800
 categories: jekyll update
 ---
-# Welcome to My Blog: A Journey of Notes, Reflections, Experiences, and Fantasy
 
 ## Introduction
 
